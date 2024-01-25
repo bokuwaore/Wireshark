@@ -4,11 +4,20 @@
 I learned how to use Wireshark to ping addresses, block IP Addresses, and locate information from Addresses
 <br />
 
+<h2>Resources Used</h2>
 
-<h2>Skills Used</h2>
+- <b>Wireshark</b> 
+- <b>Ubuntu</b>
+
+
+
+<h2>Skills Learned</h2>
 
 - <b>Wireshark</b> 
 - <b>Pinging</b>
+- <b>Wireshark Filters</b>
+- <b>Ethernet</b>
+- <b>Network Packet Capture</b>
 
 
 <h2>Certificate</h2>
