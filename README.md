@@ -8,7 +8,7 @@ I learned how to use Wireshark to ping addresses, block IP Addresses, and locate
 <h2>Skills Used</h2>
 
 - <b>Wireshark</b> 
-- <b>pinging</b>
+- <b>Pinging</b>
 
 
 <h2>Certificate</h2>
